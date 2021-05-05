@@ -1,1 +1,8 @@
+This is a short overview over the popular game engine Unity. This repository contains the presentation in which the main aspects of the engine are summarized and an
+example project which is a simple Scrolling Shooter game. 
 
+If you want to try the engine yourself you can download the free version Unity Personal here: https://store.unity.com/download?ref=personal
+
+Feel free to experiment with the example game by adding new functions or try creating your own game. After all, the best method to learn a new program is to try it out
+yourself. As Unity is one of the most popular engines there is a great number of resources online that can help you. One of which is Unity's online documentation which
+you can find here: https://docs.unity3d.com/Manual/index.html
